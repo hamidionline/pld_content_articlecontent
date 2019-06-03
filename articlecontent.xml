@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7" type="plugin" group="content" method="upgrade">
+	<name>plg_content_articlecontent</name>
+	<author>Aleksey A. Morozov (AlekVolsk)</author>
+	<copyright>(C) 2018 Aleksey A. Morozov. All rights reserved.</copyright>
+	<license>GNU General Public License version 3 or later; see http://www.gnu.org/licenses/gpl-3.0.txt</license>
+	<authorEmail>alekvolsk@.yandex.ru</authorEmail>
+	<authorUrl>https://alekvolsk.pw</authorUrl>
+	<creationDate>September 2018</creationDate>
+	<version>1.0.0</version>
+	<description>PLG_ARTICLECONTENT_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="articlecontent">articlecontent.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.plg_content_articlecontent.ini</language>
+		<language tag="en-GB">en-GB.plg_content_articlecontent.sys.ini</language>
+	</languages>
+</extension>
