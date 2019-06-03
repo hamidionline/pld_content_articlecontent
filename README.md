@@ -11,4 +11,5 @@ Within content this plugin loads content from articles (without additional field
 #### Requirements:
 
 Joomla 3.7+
+
 PHP 5.6+
